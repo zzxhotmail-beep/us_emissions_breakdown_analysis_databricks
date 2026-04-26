@@ -1,6 +1,7 @@
 # 🌍 US Emissions Breakdown Analysis (Databricks + SQL)
 
 An end-to-end data analysis project exploring **energy consumption and greenhouse gas (GHG) emissions across U.S. counties**.
+
 This project leverages the 2023 dataset from the **U.S. Environmental Protection Agency (EPA)** to uncover regional disparities, efficiency patterns, and key emission drivers.
 
 ## 🧰 Tech Stack
