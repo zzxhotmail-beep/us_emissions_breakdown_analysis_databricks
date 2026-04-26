@@ -49,7 +49,7 @@ Harris County (Texas) shows the highest energy consumption across all U.S. count
 
 👉 The screenshots of Databricks Dashboard:
 
-![Databricks Dashboard](https://cdn.jsdelivr.net/gh/zzxhotmail-beep/us_emissions_breakdown_analysis_databricks/@main/Dashboard_1.png)
+![Databricks Dashboard](https://cdn.jsdelivr.net/gh/zzxhotmail-beep/us_emissions_breakdown_analysis_databricks/Dashboard_1.png)
 
 ## 💡 Key Takeaways
 
